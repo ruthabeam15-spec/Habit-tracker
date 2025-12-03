@@ -18,3 +18,23 @@ completed habit image
 
 delete button image
 <img width="664" height="519" alt="Screenshot 2025-12-03 144236" src="https://github.com/user-attachments/assets/580a12f1-7127-4fc4-be4a-62b8cd72d170" />
+
+Getting Started:
+
+npm install
+
+npm run dev
+
+npm run build
+
+
+
+Technologies used:
+
+React, Vite,localStorage,JavaScript,CSS
+
+
+
+Future improvements:
+
+add habit streak tracking,add categories for habits,add dark mode
