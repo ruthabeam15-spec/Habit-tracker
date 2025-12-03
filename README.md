@@ -35,6 +35,10 @@ React, Vite,localStorage,JavaScript,CSS
 
 
 
+
+
+
+
 Future improvements:
 
 add habit streak tracking,add categories for habits,add dark mode
